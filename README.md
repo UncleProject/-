@@ -8,12 +8,8 @@
 >>>| :boom: DANGER              |
 >>>|:---------------------------|
 >>>| Will explode when clicked! |
->>>
+>>><3
+>>>>:heart:
 >>>>>>❤
->
-> >
-> >>
-> >>
->>![Static Badge](https://img.shields.io/badge/Uncle-Project) ![Static Badge](https://img.shields.io/badge/%E2%9D%A4-red)
+>>>>>>>![Static Badge](https://img.shields.io/badge/Uncle-Project) ![Static Badge](https://img.shields.io/badge/%E2%9D%A4-red)
 
-> > <3
