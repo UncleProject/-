@@ -96,7 +96,7 @@ All Syntax can be found [here](https://daringfireball.net/projects/markdown/synt
 | Strike through 	| \~~Insert text here\~~ 	| ~~I am dead~~ 	|
 | Tables 	| \| Tables   \|      Are      \|  Cool \| \|\----------\|\:\-------------\:\|------\:\| \| col 1 is\|  left-aligned \| $1600 \| | ![](http://i.imgur.com/EItt7mh.png) |
 |Footnotes| Footnote[\^1\] <br> [\^1\]: Text reference | Here is a simple footnote[^1]. With some additional text after it. | 
-[^1]: My footnote reference.
+[^1]: ![Static Badge](https://img.shields.io/badge/Uncle-Project) ![Static Badge](https://img.shields.io/badge/%E2%9D%A4-red)
  
 <br></br>
  <br></br>
@@ -181,4 +181,3 @@ would otherwise have special meaning in Markdown’s formatting syntax. One comm
    ```
 
 ###### Author: *UncleProject*. Also, I would like to thank you.
->>>>>>>![Static Badge](https://img.shields.io/badge/Uncle-Project) ![Static Badge](https://img.shields.io/badge/%E2%9D%A4-red)
