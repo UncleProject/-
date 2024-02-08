@@ -181,7 +181,4 @@ would otherwise have special meaning in Markdown’s formatting syntax. One comm
    ```
 
 ###### Author: *UncleProject*. Also, I would like to thank you.
-   
-
 >>>>>>>![Static Badge](https://img.shields.io/badge/Uncle-Project) ![Static Badge](https://img.shields.io/badge/%E2%9D%A4-red)
-
